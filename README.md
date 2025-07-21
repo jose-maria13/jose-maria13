@@ -45,7 +45,7 @@ Actualmente me desempeño como **Analista QA**, aplicando herramientas como **Cy
 
 | Proyecto | Descripción | Tecnologías |
 |----------|-------------|-------------|
-| [Eventum](https://github.com/ProyectofinalUnsta/front-end) | App para gestión de presentaciones en eventos y congresos | React, MongoDB, Node.js, GridFS, JWT |
+| [Eventum](https://www.eventum.lat/) | App para gestión de presentaciones en eventos y congresos | React, MongoDB, Node.js, GridFS, JWT |
 
 
 ---
@@ -60,7 +60,7 @@ Actualmente me desempeño como **Analista QA**, aplicando herramientas como **Cy
 
 ## 📫 Contacto
 
-- 📧 jose.atonur@gmail.com
+- 📧 atonur65@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/jose-maria-atonur-94949324b/)
 
 ---
