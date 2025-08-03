@@ -7,7 +7,7 @@
 
 ## 🧠 Sobre mí
 
-Soy Técnico en Desarrollo y Calidad de Software con sólida formación académica y experiencia práctica en **testing manual y automatizado**, orientado a proyectos reales. Me encuentro en constante capacitación para crecer hacia el desarrollo **Full Stack**, con énfasis en **buenas prácticas de código, automatización y arquitectura moderna**.
+Soy Estudiante de la carrera "Técnico en Desarrollo y Calidad de Software" con sólida formación académica y experiencia práctica en **testing manual y automatizado**, orientado a proyectos reales. Me encuentro en constante capacitación para crecer hacia el desarrollo **Full Stack**, con énfasis en **buenas prácticas de código, automatización y arquitectura moderna**.
 
 Actualmente me desempeño como **Analista QA**, aplicando herramientas como **Cypress**, **Postman**, **Selenium** y **Jira**, mientras complemento mis habilidades con desarrollo en **JavaScript, React, Node.js** y bases de datos como **MongoDB** y **MySQL**.
 
