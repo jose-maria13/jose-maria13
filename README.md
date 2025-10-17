@@ -46,6 +46,7 @@ Actualmente me desempeño como **Analista QA**, aplicando herramientas como **Cy
 | Proyecto | Descripción | Tecnologías |
 |----------|-------------|-------------|
 | [Eventum](https://www.eventum.lat/) | App para gestión de presentaciones en eventos y congresos | React, MongoDB, Node.js, GridFS, JWT |
+| [Pasion Urbana Inmobiliaria](https://pasion-urbana.vercel.app/) | Refactorizacion de pagina web + moderna + intuitva + ux moderna | Next.js, React, TypeScript, Tailwind CSS, JWT |
 
 
 ---
