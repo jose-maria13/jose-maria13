@@ -47,6 +47,7 @@ Actualmente me desempeño como **Analista QA**, aplicando herramientas como **Cy
 |----------|-------------|-------------|
 | [Eventum](https://www.eventum.lat/) | App para gestión de presentaciones en eventos y congresos | React, MongoDB, Node.js, GridFS, JWT |
 | [Pasion Urbana Inmobiliaria](https://pasion-urbana.vercel.app/) | Refactorizacion de pagina web + moderna + intuitva + ux moderna | Next.js, React, TypeScript, Tailwind CSS, JWT |
+| [VetCard](https://vetcard-lime.vercel.app/) | Proyecto personal que nació de una necesidad real: mantener organizadas las vacunas y consultas de mi mascota. Actualmente trabajando en mejoras de UX/UI y en una nueva identidad visual.|
 
 
 ---
