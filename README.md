@@ -9,7 +9,7 @@
 
 Soy **Técnico Universitario en Desarrollo y Calidad de Software (UNSTA)** con experiencia práctica en **testing manual y automatizado**, **validación de datos**, **procesos analíticos** y **soporte sobre bases de datos**.
 
-Actualmente me desempeño como **Analista de Datos, QA y Procesos de Bases de Datos** en [Strata Analytics](https://strata-analytics.us/es/), trabajando sobre pipelines, validación de información, calidad de datos y procesos en la nube. También participé en la **reingeniería de un modelo de Machine Learning** orientado a predecir probabilidad de no recarga y comportamiento futuro de clientes.
+Actualmente me desempeño como **Analista de Datos, QA y Procesos de Bases de Datos** en [Strata Analytics](https://strata-analytics.us/es/), trabajando sobre pipelines, validación de información, calidad de datos y procesos en la nube.
 
 Me encuentro en constante formación, cursando la **Licenciatura en Ciencias de Datos (UCBA)**, con interés en seguir creciendo en **bases de datos, análisis funcional, QA automation y desarrollo de soluciones técnicas**.
 
